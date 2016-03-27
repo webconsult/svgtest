@@ -1,0 +1,9 @@
+.polygon-1 {
+  fill: blue;
+}
+.polygon-1:hover {
+  fill: green;
+}
+#some-icon-hello:hover .polygon-2 {
+  fill: yellow;
+}
